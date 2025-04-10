@@ -288,8 +288,10 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "maxNumberOfAttack": 20,
-    "teststring": "teststring",
+    "bulletPrefab": {
+      "__uuid__": "13b2dc80-9ac1-41a5-bc89-333e58f7296e",
+      "__expectedType__": "cc.Prefab"
+    },
     "_id": "2aEirUYG1Hl6Q61FBdnFmM"
   },
   {
