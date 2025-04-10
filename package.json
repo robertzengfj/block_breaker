@@ -3,5 +3,8 @@
   "uuid": "d5b78ff5-c2ea-4938-b2fc-582db99d4e28",
   "creator": {
     "version": "3.8.6"
+  },
+  "dependencies": {
+    "NewProject": "file:"
   }
 }

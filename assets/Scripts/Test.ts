@@ -8,7 +8,7 @@ export class Test extends Component {
     }
 
     update(deltaTime: number) {
-        console.log('update'+deltaTime);
+        //console.log('update'+deltaTime);
     }
 }
 
