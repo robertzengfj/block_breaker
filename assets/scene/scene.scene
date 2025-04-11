@@ -290,6 +290,10 @@
     "__prefab": null,
     "maxNumberOfAttack": 20,
     "teststring": "teststring",
+    "ground": {
+      "__id__": 9
+    },
+    "bulletPrefab": null,
     "_id": "2aEirUYG1Hl6Q61FBdnFmM"
   },
   {
